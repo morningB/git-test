@@ -2,3 +2,4 @@ Hello git
 나는 깃 초보입니다.
 야호 ~~~
 feat convention
+깃 탈출 1일차 
